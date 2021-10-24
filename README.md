@@ -33,7 +33,7 @@
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT) © [Chen Fengyuan](https://chenfengyuan.com)
+[MIT](https://opensource.org/licenses/MIT) © [Meniki emas :-)](https://chenfengyuan.com)
 
 
 
@@ -66,5 +66,5 @@
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT) © [Chen Fengyuan](https://chenfengyuan.com)
+[MIT](https://opensource.org/licenses/MIT) © [Meniki emas :-](https://chenfengyuan.com)
 
