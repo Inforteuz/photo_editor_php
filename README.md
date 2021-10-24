@@ -50,7 +50,7 @@
 - `Esc`: kesishni bekor qilish.
 - "Enter": kesishni yakunlash.
 - "O'chirish": yuklangan yoki kesilgan rasmni o'chirish.
-- `←`: Rasmni chapga 1 pikselga siljiting.
+- `←`: Rasmni chapga 1 pikselga siljitish.
 - `→`: Tasvirni 1 pikselga oʻngga siljitish.
 - `↑`: Tasvirni 1 pikselga tepaga siljitish.
 - `↓`: Tasvirni 1 piksel pastga siljitish.
