@@ -66,5 +66,5 @@
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT) © [Meniki emas :-](https://chenfengyuan.com)
+[MIT](https://opensource.org/licenses/MIT) © [Meniki emas :-)](https://chenfengyuan.com)
 
